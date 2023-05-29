@@ -5,8 +5,6 @@
   <h3 align="center"> I am student👨‍🎓, I want to be better 🏋️‍♂️</h3>
 <br>
 <h1 align="center"> ⏳ Let's go ✈️	  </h1>
-<hr>
-<hr>
 
 
 
