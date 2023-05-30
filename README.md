@@ -3,7 +3,6 @@
 <p align="center">
   <h2 align="center">I come from Viet Nam <img with="50" src="https://github.com/yammadev/flag-icons/blob/master/png/VN@2x.png?raw=true"></h2><br>
   <h3 align="center"> I am student👨‍🎓, I want to be better 🏋️‍♂️</h3>
-<br>
 <h1 align="center"> ⏳ Let's go ✈️	  </h1>
 
 
