@@ -6,7 +6,7 @@
   <h3 align="center"> I am student👨‍🎓, I want to be better 🏋️‍♂️</h3>
 <h1 align="center"> ⏳ Let's go ✈️	  </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-Hieu-Kid2D&theme=merko&show_icons=true&hide=issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-Hieu-Kid2D&theme=merko&show_icons=true&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Do-Hieu-Kid2D&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
