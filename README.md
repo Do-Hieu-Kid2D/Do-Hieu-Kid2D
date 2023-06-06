@@ -7,6 +7,7 @@
 <h1 align="center"> ⏳ Let's go ✈️	  </h1>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-Hieu-Kid2D)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-Hieu-Kid2D&theme=merko&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
