@@ -5,6 +5,7 @@
   <h2 align="center">I come from Viet Nam <img with="50" src="https://github.com/yammadev/flag-icons/blob/master/png/VN@2x.png?raw=true"></h2><br>
   <h3 align="center"> I am student👨‍🎓, I want to be better 🏋️‍♂️</h3>BreadcrumbsDo-Hieu-Kid2D
 <h1 align="center"> ⏳ Let's go ✈️	  </h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreadcrumbsDo-Hieu-Kid2D&theme=merko&show_icons=true)
 
 
